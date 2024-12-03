@@ -1,15 +1,14 @@
 # flutter_app_crud
 
+App de gerenciamento de usuários, para prática de operações de consulta, inserção, alteração e exclusão. 
+Além de conexão com banco de dados em Nuvem.
 
-App CRUD de uma Manutenção de usuários:
-
-## Conteúdo
+## Conteúdo abordado
 
 * Operações CRUD (CREATE, READ, UPDATE, DELETE)
 * Provider
 * http
-* Conexão com o Banco de Dados em Nuvem Firebase.
-
+* Banco de Dados Google Firebase.
 
 ## Imagens
 
